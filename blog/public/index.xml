@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eren Blog</title>
-    <link>https://meliodaseren.github.io/</link>
+    <link>https://meliodaseren.github.io/blog/public/</link>
     <description>Recent content on Eren Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language><atom:link href="https://meliodaseren.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language><atom:link href="https://meliodaseren.github.io/blog/public/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

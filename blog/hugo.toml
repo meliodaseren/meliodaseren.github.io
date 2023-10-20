@@ -1,4 +1,4 @@
-baseURL = 'https://meliodaseren.github.io/'
+baseURL = 'https://meliodaseren.github.io/blog/public'
 title = 'Eren Blog'
 theme = 'holy'
 languageCode = 'zh-tw'
