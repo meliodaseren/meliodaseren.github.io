@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Eren Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://meliodaseren.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Oct 2023 16:36:32 +0800</lastBuildDate><atom:link href="https://meliodaseren.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 10 20 My First Post</title>
+      <link>https://meliodaseren.github.io/posts/2023-10-20-my-first-post/</link>
+      <pubDate>Fri, 20 Oct 2023 16:36:32 +0800</pubDate>
+      
+      <guid>https://meliodaseren.github.io/posts/2023-10-20-my-first-post/</guid>
+      <description>My First Post.</description>
+    </item>
+    
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://meliodaseren.github.io/posts/markdown-syntax/</link>
