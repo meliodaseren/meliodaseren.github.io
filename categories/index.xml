@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Eren Blog</title>
-    <link>https://meliodaseren.github.io/blog/public/categories/</link>
+    <link>https://meliodaseren.github.io/categories/</link>
     <description>Recent content in Categories on Eren Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-tw</language><atom:link href="https://meliodaseren.github.io/blog/public/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-tw</language><atom:link href="https://meliodaseren.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

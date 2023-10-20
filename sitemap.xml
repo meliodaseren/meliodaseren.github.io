@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://meliodaseren.github.io/blog/public/categories/</loc>
+    <loc>https://meliodaseren.github.io/categories/</loc>
   </url><url>
-    <loc>https://meliodaseren.github.io/blog/public/</loc>
+    <loc>https://meliodaseren.github.io/</loc>
   </url><url>
-    <loc>https://meliodaseren.github.io/blog/public/tags/</loc>
+    <loc>https://meliodaseren.github.io/tags/</loc>
   </url>
 </urlset>
