@@ -1,0 +1,13 @@
+baseURL = 'https://meliodaseren.github.io/'
+title = 'Eren Blog'
+theme = 'holy'
+languageCode = 'zh-tw'
+DefaultContentLanguage = 'zh-tw'
+
+[menu]
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
